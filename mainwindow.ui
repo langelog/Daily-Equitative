@@ -279,7 +279,7 @@ background: black;
      </rect>
     </property>
     <property name="text">
-     <string>Recompute Quota</string>
+     <string>Reset Quota</string>
     </property>
    </widget>
    <widget class="QLineEdit" name="line_OutNextPaymentDate">
@@ -318,6 +318,19 @@ background: black;</string>
     </property>
     <property name="text">
      <string>Next Payment Date:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushExpenseAmount_3">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>680</y>
+      <width>691</width>
+      <height>81</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Reset Day</string>
     </property>
    </widget>
   </widget>

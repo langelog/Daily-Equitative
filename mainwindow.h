@@ -23,6 +23,8 @@ private slots:
 
     void on_pushNextPaymentDate_clicked();
 
+    void on_pushExpenseAmount_clicked();
+
 private:
     Ui::MainWindow *ui;
 
